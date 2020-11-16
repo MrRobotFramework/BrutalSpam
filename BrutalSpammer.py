@@ -17,9 +17,9 @@ def baner():
 ╚═╝┴└─└─┘ ┴ ┴ ┴┴─┘╚═╝┴  ┴ ┴┴ ┴┴ ┴└─┘┴└─
 
 \t------------
-\nCreator: Faqih ID
-Youtube: Ilangqwer
-Github : github.com/IL4NGQW3R
+\nAUthor : MrRobot
+Youtube 1 : MrRobot Framework
+Youtube 2 : MrRobot Learn To Hack
 ==========================================''')
 def kata(s):
     for c in s + "\n":
